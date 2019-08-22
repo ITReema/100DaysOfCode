@@ -3,25 +3,25 @@ In Day 3 we learn about literals and variable declaration.
 A variable is a literal assigned to an identifier, so you can reference and use it later in the program.
 
 ## Declaration Types:
-* Var
+* var
 * let
 * const
 
 ### var syntax:
 ```
-var x; // Declaration and initialization
-x = "Hello World"; // Assignment
+var x; // declaration and initialization
+x = "Hello World"; // assignment
 
-// Or all in one
+// or all in one
 var y = "Hello World";
 ```
 
 ### let syntax:
 ```
-let x; // Declaration and initialization
-x = "Hello World"; // Assignment
+let x; // declaration and initialization
+x = "Hello World"; // assignment
 
-// Or all in one
+// or all in one
 let y = "Hello World";
 ```
 
