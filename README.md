@@ -6,5 +6,5 @@
 [Day 2](https://codepen.io/ReemaSaleh/pen/VwZmyQz?editors=0010#0) Comments <br>
 [Day 3](https://codepen.io/ReemaSaleh/pen/PoYWzXW) Literals & Variable declaration <br>
 [Day 4&5](https://codepen.io/ReemaSaleh/pen/KKPamdP?editors=0010#0) Challenge <br>
-[Day 6]() Identifiers<br> 
+[Day 6](https://codepen.io/ReemaSaleh/pen/rNByMXN?editors=0010#0) Identifiers<br> 
 
