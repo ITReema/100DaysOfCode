@@ -19,7 +19,7 @@ The following are also future reserved words when encountered within strict mode
 ```implements, let, private, public, yield, interface, package, protected, static```
 
 ## Reserved words in ECMAScript
-ECMAScript is a standard. 
+ECMAScript is a standard. JavaScript is a dialect of ECMAScript.
 ```￼abstract, double, goto, native, static, boolean, enum, implements, package, super, byte,
 ￼export, import, private, synchronized, char, extends, int, protected, throws, class, final,
 ￼interface, public, transient, const, float, long, short, volatile```
