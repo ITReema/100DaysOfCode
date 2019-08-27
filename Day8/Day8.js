@@ -5,12 +5,12 @@ var a=3; var b=5;
 var a=3
 var b=5
 
-// semicolon optional, variable declaration in multiple lines
+//semicolon optional, variable declaration in multiple lines
 var c
 c =
 10 
 document.write(c)
 
-// same as above but semicolon required, multiple statements on the same line.
+//same as above but semicolon required, multiple statements on the same line.
 var c; c = 10; document.write(c);
 
