@@ -8,4 +8,4 @@
 [Day 4&5](https://codepen.io/ReemaSaleh/pen/KKPamdP?editors=0010#0) Challenge <br>
 [Day 6](https://codepen.io/ReemaSaleh/pen/rNByMXN?editors=0010#0) Identifiers <br> 
 [Day 7](https://codepen.io/ReemaSaleh/pen/KKPWjpV?editors=0010#0) Reserved Words <br>
-[Day 8]() Semicolons <br>
+[Day 8](https://codepen.io/ReemaSaleh/pen/GRKmOBV?editors=0010#0) Semicolons <br>
