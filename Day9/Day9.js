@@ -1,12 +1,12 @@
-Math.pow(2,53) 
-Math.round(.6)
-Math.ceil(.6)
-Math.floor(.6)
-Math.abs(-5)
-Math.max(x,y,z)
-Math.min(x,y,z)
+Math.pow(2,53) // function in JavaScript is used to power of a number
+Math.round(.6) // function returns the value of a number rounded to the nearest integer.
+Math.ceil(.6) // round a number upward to the nearest integer
+Math.floor(.6) //rounds a number downwards to the nearest integer
+Math.abs(-5) // return the absolute value of a number
+Math.max(x,y,z) //return the largest numbers
+Math.min(x,y,z) //return the lowest-valued number
 Math.random() // x where 0 <= x < 1.0
-Math.PI // π: circumference of a circle / diameter(
+Math.PI // π: circumference of a circle / diameter
 Math.E // e: The base of the natural logarithm
 Math.sqrt(3) // The square root of 3
 Math.pow(3, 1/3) // The cube root of 3
