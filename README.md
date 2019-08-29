@@ -10,3 +10,4 @@
 [Day 7](https://codepen.io/ReemaSaleh/pen/KKPWjpV?editors=0010#0) Reserved Words <br>
 [Day 8](https://codepen.io/ReemaSaleh/pen/GRKmOBV?editors=0010#0) Semicolons <br>
 [Day 9](https://codepen.io/ReemaSaleh/pen/MWgoyLg?editors=0010#0) Types & Numbers <br>
+[Day 10](https://codepen.io/ReemaSaleh/pen/OJLgoER?editors=0010#0) Dates and Times <br>
