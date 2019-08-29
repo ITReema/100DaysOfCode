@@ -11,3 +11,4 @@
 [Day 8](https://codepen.io/ReemaSaleh/pen/GRKmOBV?editors=0010#0) Semicolons <br>
 [Day 9](https://codepen.io/ReemaSaleh/pen/MWgoyLg?editors=0010#0) Types & Numbers <br>
 [Day 10](https://codepen.io/ReemaSaleh/pen/OJLgoER?editors=0010#0) Dates and Times <br>
+[Day 11&12](https://codepen.io/ReemaSaleh/pen/KKPqEpj?editors=0010) Challenge <br>
