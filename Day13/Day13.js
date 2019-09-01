@@ -1,5 +1,5 @@
 var s = "hello, world" 
-s.charAt(0) //rewturn h
+s.charAt(0) //return h
 s.charAt(s.length-1) //return d 
 s.substring(1,4) //return ell
 s.slice(1,4) //return ell
