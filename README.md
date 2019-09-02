@@ -13,3 +13,4 @@
 [Day 10](https://codepen.io/ReemaSaleh/pen/OJLgoER?editors=0010#0) Dates and Times <br>
 [Day 11&12](https://codepen.io/ReemaSaleh/pen/KKPqEpj?editors=0010) Challenge <br>
 [Day 13](https://codepen.io/ReemaSaleh/pen/aboyXWr) String <br>
+[Day 14]() Variable Scope and Operator <br>
