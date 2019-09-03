@@ -1,5 +1,5 @@
 # Day 15
-In Day 15 we learn about Conditional Statements (``if```,```if else```,```nested if```) in JavaScript.
+In Day 15 we learn about Conditional Statements (```if```,```if else```,```nested if```) in JavaScript.
 
 ## Conditional Statements
 - ```if```: use to decide whether a certain statement or block of statements will be executed or not. <br>
