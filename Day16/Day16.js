@@ -1,7 +1,7 @@
-var n = 4 ;
+var n = 2 ;
 if (n == 1) {
 	document.write("You have 1 new message.") ;
-	}
+}
 else if (n == 2) {
 	document.write("You have 2 new messages.") ;
 }
