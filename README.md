@@ -16,3 +16,4 @@
 [Day 14](https://codepen.io/ReemaSaleh/pen/GRKMrwB?editors=0010#0) Variable Scope and Operator <br>
 [Day 15](https://codepen.io/ReemaSaleh/pen/zYOEdMW?editors=0010#0) Conditional Statements (```if```, ```if else```, ```nested if```)<br>
 [Day 16](https://codepen.io/ReemaSaleh/pen/RwbjNaB?editors=0010#0) Conditional Statements (```else if```)<br>
+[Day 17](https://codepen.io/pen/?editors=0010#0) Conditional Statements (```switch```)<br>
