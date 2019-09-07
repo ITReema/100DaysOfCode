@@ -22,4 +22,4 @@ Week 3 :
 * [Day 15](https://codepen.io/ReemaSaleh/pen/zYOEdMW?editors=0010#0) Conditional Statements (```if```, ```if else```, ```nested if```)<br>
 * [Day 16](https://codepen.io/ReemaSaleh/pen/RwbjNaB?editors=0010#0) Conditional Statements (```else if```)<br>
 * [Day 17](https://codepen.io/pen/?editors=0010#0) Conditional Statements (```switch```)<br>
-* [Day 18&19]() Weekend <br>
+* [Day 18&19](https://codepen.io/ReemaSaleh/pen/BaBJXPM?editors=0010#0) Weekend <br>
