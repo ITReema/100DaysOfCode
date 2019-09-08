@@ -25,4 +25,4 @@ Week 3:
 * [Day 18&19](https://codepen.io/ReemaSaleh/pen/BaBJXPM?editors=0010#0) Weekend <br>
 
 Week 4:
-* [Day 20]() Loops <br>
+* [Day 20](https://codepen.io/ReemaSaleh/pen/pozapVM?editors=0010#0) Loops (```while```) <br>
