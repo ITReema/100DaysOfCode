@@ -6,10 +6,12 @@ Loops can execute a block of code a number of times.
 
 * ```do/while```: loops through a block of code once, and then repeats the loop while a specified condition is true
 
-Syntax:
+**Syntax:**
 ```
 do {
   //code block to be executed
 }
 while (condition);
 ```
+### Flow chart
+The flow chart of a ```do-while``` loop would be as follows:
