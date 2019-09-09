@@ -18,5 +18,5 @@ The flow chart of a ```while``` loop would be as follows:
   <img width="250" height="400" src="https://user-images.githubusercontent.com/27751735/64491995-7a852c80-d277-11e9-81c5-7809172a0d0a.jpg">
 </p>
 
-## Reference
+### Reference
 * [JavaScript - While Loops](https://www.tutorialspoint.com/javascript/javascript_while_loop.htm)
