@@ -13,7 +13,7 @@ for(initialize; test; increment) {
 }
 ```
 ### Flow chart
-The flow chart of a for loop in JavaScript would be as follows: 
+The flow chart of a ```for``` loop in JavaScript would be as follows: 
 <p align="center">
   <img width="300" height="300" src="https://user-images.githubusercontent.com/27751735/64553673-740fb700-d342-11e9-8d44-74b1ec99dbc1.jpg">
 </p>
