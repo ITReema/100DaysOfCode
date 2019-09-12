@@ -18,5 +18,5 @@ Any JavaScript identifier that is not a reserved word.<br>
 A JavaScript statement. ```break``` can be used with any labeled statement, and ```continue``` can be used with looping labeled statements.
 
 ### The break statement
-The break statement "jumps out" of a loop.
+The ```break``` statement "jumps out" of a loop.
 
