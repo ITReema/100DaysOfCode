@@ -30,3 +30,4 @@ Week 4:
 * [Day 22](https://codepen.io/ReemaSaleh/pen/YzKavqe?editors=0010#0) Loops (```for```) <br> 
 * [Day 23](https://codepen.io/ReemaSaleh/pen/JjPvPXW?editors=0010#0) Jump (```break```) <br>
 * [Day 24](https://codepen.io/ReemaSaleh/pen/aboKOxw?editors=0010#0) Jump (```continue```) <br>
+* [Day 25&26]() Weekend <br>
