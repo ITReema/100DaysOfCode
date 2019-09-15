@@ -31,3 +31,6 @@ Week 4:
 * [Day 23](https://codepen.io/ReemaSaleh/pen/JjPvPXW?editors=0010#0) Jump (```break```) <br>
 * [Day 24](https://codepen.io/ReemaSaleh/pen/aboKOxw?editors=0010#0) Jump (```continue```) <br>
 * [Day 25&26](https://codepen.io/ReemaSaleh/pen/NWKzZNQ) Weekend <br>
+
+Week 5:
+* [Day 27](https://codepen.io/pen/?editors=0010#0) Jump (```return```) <br>
