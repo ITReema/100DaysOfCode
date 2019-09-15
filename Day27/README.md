@@ -8,4 +8,6 @@ Jump statements cause an unconditional jump to another statement elsewhere in th
 The ```return``` statement stops the execution of a function and returns a value from that function.
 
 **Syntax:**
-```return value;```
+```
+return value;
+```
