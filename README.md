@@ -34,3 +34,4 @@ Week 4:
 
 Week 5:
 * [Day 27](https://codepen.io/pen/?editors=0010#0) Jump (```return```) <br>
+* [Day 28](https://codepen.io/pen/?editors=0010#0) Jump (```throw```) <br>
