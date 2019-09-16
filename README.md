@@ -33,5 +33,5 @@ Week 4:
 * [Day 25&26](https://codepen.io/ReemaSaleh/pen/NWKzZNQ) Weekend <br>
 
 Week 5:
-* [Day 27](https://codepen.io/pen/?editors=0010#0) Jump (```return```) <br>
-* [Day 28](https://codepen.io/pen/?editors=0010#0) Jump (```throw```) <br>
+* [Day 27](https://codepen.io/ReemaSaleh/pen/pozZpMK) Jump (```return```) <br>
+* [Day 28](https://codepen.io/ReemaSaleh/pen/bGbjjoP?editors=0011) Jump (```throw```) <br>
