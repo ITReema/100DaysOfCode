@@ -1,5 +1,5 @@
-# Day 28
-In Day 28 we learn about ```try```/```catch```/```finally``` statement in JavaScript.
+# Day 29
+In Day 29 we learn about ```try```/```catch```/```finally``` statement in JavaScript.
 
 ### The try/catch/finally statement
 The ```try```/```catch```/```finally```  statement handles some or all of the errors that may occur in a block of code, while still running code.
