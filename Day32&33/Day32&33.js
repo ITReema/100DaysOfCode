@@ -11,5 +11,5 @@ catch(err) {
   alert(err);
 }
 finally{
- console.log("using try/catch/finally in divide by zero!!");
+ console.log("done!");
 } 
