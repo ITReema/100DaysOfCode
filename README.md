@@ -38,4 +38,5 @@ Week 5:
 * [Day 29](https://codepen.io/ReemaSaleh/pen/ZEzMWyw?editors=0010#0) ```try```/```catch```/```finally``` <br>
 * [Day 30](https://codepen.io/ReemaSaleh/pen/oNvPWQz?editors=0010#0) Object <br>
 * [Day 31](https://codepen.io/ReemaSaleh/pen/gOYBQxv?editors=0010#0) Object with method <br>
+* [Day 32&33](https://codepen.io/ReemaSaleh/pen/WNeLwZo?editors=0011) Weekend <br>
 
