@@ -40,3 +40,5 @@ Week 5:
 * [Day 31](https://codepen.io/ReemaSaleh/pen/gOYBQxv?editors=0010#0) Object with method <br>
 * [Day 32&33](https://codepen.io/ReemaSaleh/pen/WNeLwZo?editors=0011) Weekend <br>
 
+Week 6:
+* [Day 34](https://codepen.io/ReemaSaleh/pen/mdbvPzb?editors=0010#0) ```this``` <br>
