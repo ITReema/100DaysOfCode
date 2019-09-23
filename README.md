@@ -41,4 +41,4 @@ Week 5:
 * [Day 32&33](https://codepen.io/ReemaSaleh/pen/WNeLwZo?editors=0011) Weekend <br>
 
 Week 6:
-* [Day 34](https://codepen.io/ReemaSaleh/pen/mdbvPzb?editors=0010#0) ```this``` <br>
+* [Day 34](https://codepen.io/ReemaSaleh/pen/mdbvPzb?editors=0010#0) ```this``` Keyword <br>
