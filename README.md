@@ -44,3 +44,6 @@ Week 6:
 * [Day 34](https://codepen.io/ReemaSaleh/pen/mdbvPzb?editors=0010#0) ```this``` Keyword <br>
 * [Day 35](https://codepen.io/ReemaSaleh/pen/gOYEbEj) Inheritance <br>
 * [Day 36](https://codepen.io/ReemaSaleh/pen/jONJEJj?editors=0010#0) Deleting Properties <br>
+* [Day 37]() Testing Properties <br>
+* [Day 38]() Property Getters and Setters <br>
+* [Day 39&40]() Weekend <br>
