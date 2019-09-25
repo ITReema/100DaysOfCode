@@ -1,5 +1,5 @@
 # Day 37
-In Day 38 we learn about Testing Properties in JavaScript.
+In Day 37 we learn about Testing Properties in JavaScript.
 
 ### Testing Properties
 Is a way to testing whether properties are present or not
