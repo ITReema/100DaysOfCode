@@ -45,5 +45,5 @@ Week 6:
 * [Day 35](https://codepen.io/ReemaSaleh/pen/gOYEbEj) Inheritance <br>
 * [Day 36](https://codepen.io/ReemaSaleh/pen/jONJEJj?editors=0010#0) Deleting Properties <br>
 * [Day 37](https://codepen.io/ReemaSaleh/pen/PoYLXqm) Testing Properties <br>
-* [Day 38]() Property Getters and Setters <br>
+* [Day 38](https://codepen.io/ReemaSaleh/pen/XWrQRbm) Property Getters and Setters <br>
 * [Day 39&40]() Weekend <br>
