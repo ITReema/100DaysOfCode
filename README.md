@@ -50,3 +50,4 @@ Week 6:
 
 Week 7:
 * [Day 41](https://codepen.io/ReemaSaleh/pen/LYPoJop?editors=0011) The prototype Attribute <br>
+* [Day 42]() Adding Properties to Property <br>
