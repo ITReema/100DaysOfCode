@@ -49,4 +49,4 @@ Week 6:
 * [Day 39&40](https://codepen.io/ReemaSaleh/pen/aborwZV?editors=0010#0) Weekend <br>
 
 Week 7:
-* [Day 41]() The prototype Attribute <br>
+* [Day 41](https://codepen.io/ReemaSaleh/pen/LYPoJop?editors=0011) The prototype Attribute <br>
