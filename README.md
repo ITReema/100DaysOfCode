@@ -51,5 +51,5 @@ Week 6:
 Week 7:
 * [Day 41](https://codepen.io/ReemaSaleh/pen/LYPoJop?editors=0011) The prototype Attribute <br>
 * [Day 42](https://codepen.io/ReemaSaleh/pen/jONodwd?editors=0010) Adding Properties to Property <br>
-* [Day 43]() Arrays <br>
+* [Day 43](https://codepen.io/ReemaSaleh/pen/OJLKJNB) Arrays <br>
 
