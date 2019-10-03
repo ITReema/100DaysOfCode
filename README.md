@@ -53,5 +53,5 @@ Week 7:
 * [Day 42](https://codepen.io/ReemaSaleh/pen/jONodwd?editors=0010) Adding Properties to Property <br>
 * [Day 43](https://codepen.io/ReemaSaleh/pen/OJLKJNB) Arrays <br>
 * [Day 44](https://codepen.io/ReemaSaleh/pen/pozMxbV?editors=0010#0) Creating Arrays <br> 
-* [Day 45]() Reading and Accessing elements <br> 
+* [Day 45](https://codepen.io/ReemaSaleh/pen/jONggLM?editors=0010#0) Reading and Accessing elements <br> 
 
