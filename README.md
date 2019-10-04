@@ -54,5 +54,5 @@ Week 7:
 * [Day 43](https://codepen.io/ReemaSaleh/pen/OJLKJNB) Arrays <br>
 * [Day 44](https://codepen.io/ReemaSaleh/pen/pozMxbV?editors=0010#0) Creating Arrays <br> 
 * [Day 45](https://codepen.io/ReemaSaleh/pen/jONggLM?editors=0010#0) Reading and Accessing elements <br> 
-* [Day 46&47]() Weekend <br>
+* [Day 46&47](https://codepen.io/ReemaSaleh/pen/YzzKLGO?editors=0010#0) Weekend <br>
 
