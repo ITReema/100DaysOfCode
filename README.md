@@ -56,3 +56,5 @@ Week 7:
 * [Day 45](https://codepen.io/ReemaSaleh/pen/jONggLM?editors=0010#0) Reading and Accessing elements <br> 
 * [Day 46&47](https://codepen.io/ReemaSaleh/pen/YzzKLGO?editors=0010#0) Weekend <br>
 
+Week 8:
+* [Day 48]() Array Length <br>
