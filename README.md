@@ -57,4 +57,4 @@ Week 7:
 * [Day 46&47](https://codepen.io/ReemaSaleh/pen/YzzKLGO?editors=0010#0) Weekend <br>
 
 Week 8:
-* [Day 48]() Array Length <br>
+* [Day 48](https://codepen.io/ReemaSaleh/pen/xxxxMKj?editors=0010#0) Array Length <br>
