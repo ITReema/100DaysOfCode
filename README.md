@@ -58,4 +58,4 @@ Week 7:
 
 Week 8:
 * [Day 48](https://codepen.io/ReemaSaleh/pen/xxxxMKj?editors=0010#0) Array Length <br>
-* [Day 49]() Adding Array Elements <br>
+* [Day 49](https://codepen.io/ReemaSaleh/pen/yLLLZyb) Adding Array Elements <br>
