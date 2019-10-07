@@ -11,5 +11,5 @@ array[3] = 'four'; // add new element to ar
 * ```push``` method allows you to add one or more elements to the end of an array.
 ```
 var array = ['one', 'two', 'three'];
-array.push('four');
+array.push('four'); // ["one", "two", "three", "four"]
 ```
