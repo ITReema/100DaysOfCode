@@ -60,4 +60,4 @@ Week 8:
 * [Day 48](https://codepen.io/ReemaSaleh/pen/xxxxMKj?editors=0010#0) Array Length <br>
 * [Day 49](https://codepen.io/ReemaSaleh/pen/yLLLZyb) Adding Array Elements <br>
 * [Day 50](https://codepen.io/ReemaSaleh/pen/WNNbEZq?editors=0010#0) Deleting Array Elements <br>
-* [Day 51]() Iterating Arrays <br>
+* [Day 51](https://codepen.io/ReemaSaleh/pen/ZEEYxem) Iterating Arrays <br>
