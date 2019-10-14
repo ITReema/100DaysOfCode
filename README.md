@@ -66,3 +66,4 @@ Week 8:
 
 Week 9:
 * [Day 55](https://codepen.io/ReemaSaleh/pen/vYYLwZd?editors=0010#0) Array Methods 1 <br>
+* [Day 56]() Array Methods 2 <br>
