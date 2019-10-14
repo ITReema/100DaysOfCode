@@ -65,4 +65,4 @@ Week 8:
 * [Day 53&54]() Weekend <br>
 
 Week 9:
-* [Day 55]() Array Methods 1 <br>
+* [Day 55](https://codepen.io/ReemaSaleh/pen/vYYLwZd?editors=0010#0) Array Methods 1 <br>
