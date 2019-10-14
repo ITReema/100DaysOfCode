@@ -63,3 +63,6 @@ Week 8:
 * [Day 51](https://codepen.io/ReemaSaleh/pen/ZEEYxem) Iterating Arrays <br>
 * [Day 52](https://codepen.io/ReemaSaleh/pen/bGGdWod?editors=0010#0) Multidimensional Array <br>
 * [Day 53&54]() Weekend <br>
+
+Week 9:
+* [Day 55]() Array Methods 1 <br>
