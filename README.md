@@ -69,3 +69,4 @@ Week 9:
 * [Day 56](https://codepen.io/ReemaSaleh/pen/vYYGRmv?editors=0010#0) Array Methods 2 <br>
 * [Day 57](https://codepen.io/pen/?editors=0010#0) Array Methods 3 <br>
 * [Day 58]() Array Methods 4 <br>
+* [Day 59]() Strings As Arrays <br>
