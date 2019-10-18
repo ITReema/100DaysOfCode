@@ -70,3 +70,4 @@ Week 9:
 * [Day 57](https://codepen.io/ReemaSaleh/pen/MWWePox?editors=0010#0) Array Methods 3 <br>
 * [Day 58](https://codepen.io/ReemaSaleh/pen/LYYZgjN) Array Methods 4 <br>
 * [Day 59](https://codepen.io/ReemaSaleh/pen/wvvWYqm) Strings As Arrays <br>
+* [Day 60&61]() Weekend <br>
