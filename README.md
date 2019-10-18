@@ -62,7 +62,7 @@ Week 8:
 * [Day 50](https://codepen.io/ReemaSaleh/pen/WNNbEZq?editors=0010#0) Deleting Array Elements <br>
 * [Day 51](https://codepen.io/ReemaSaleh/pen/ZEEYxem) Iterating Arrays <br>
 * [Day 52](https://codepen.io/ReemaSaleh/pen/bGGdWod?editors=0010#0) Multidimensional Array <br>
-* [Day 53&54]() Weekend <br>
+* [Day 53&54](https://codepen.io/ReemaSaleh/pen/mddexrd) Weekend <br>
 
 Week 9:
 * [Day 55](https://codepen.io/ReemaSaleh/pen/vYYLwZd?editors=0010#0) Array Methods 1 <br>
