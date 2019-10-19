@@ -71,3 +71,6 @@ Week 9:
 * [Day 58](https://codepen.io/ReemaSaleh/pen/LYYZgjN) Array Methods 4 <br>
 * [Day 59](https://codepen.io/ReemaSaleh/pen/wvvWYqm) Strings As Arrays <br>
 * [Day 60&61](https://codepen.io/ReemaSaleh/pen/QWWKQZZ?editors=0010#0) Weekend <br>
+
+Week 10:
+* [Day 62]() function <br>
