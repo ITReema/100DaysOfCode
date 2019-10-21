@@ -31,7 +31,6 @@ var x = function (a, b) {return a * b};
 * The function() constructor <br>
 JavaScript functions are defined with the function keyword.
 Functions can also be defined with a built-in JavaScript function constructor called Function(). <br>
-
 **Example**
 ```
 var myFunction = new Function("a", "b", "return a * b");
