@@ -73,4 +73,5 @@ Week 9:
 * [Day 60&61](https://codepen.io/ReemaSaleh/pen/QWWKQZZ?editors=0010#0) Weekend <br>
 
 Week 10:
-* [Day 62](https://codepen.io/ReemaSaleh/pen/GRRNMvj?editors=0010) function <br>
+* [Day 62](https://codepen.io/ReemaSaleh/pen/GRRNMvj?editors=0010) Function <br>
+* [Day 63](https://codepen.io/ReemaSaleh/pen/GRRNMvj?editors=0010) Functions <br>
