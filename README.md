@@ -77,4 +77,5 @@ Week 10:
 * [Day 63](https://codepen.io/ReemaSaleh/pen/BaaQMaK?editors=0010#0) Function <br>
 * [Day 64](https://codepen.io/ReemaSaleh/pen/jOOyYbN?editors=0010#0) call <br>
 * [Day 65](https://codepen.io/ReemaSaleh/pen/MWWpZOw?editors=0010#0) apply <br>
+* [Day 66]() JavaScript Closures <br>
 
