@@ -78,4 +78,5 @@ Week 10:
 * [Day 64](https://codepen.io/ReemaSaleh/pen/jOOyYbN?editors=0010#0) call <br>
 * [Day 65](https://codepen.io/ReemaSaleh/pen/MWWpZOw?editors=0010#0) apply <br>
 * [Day 66](https://codepen.io/ReemaSaleh/pen/MWWmzZz?editors=0010#0) JavaScript Closures <br>
+* [Day 67&68]() Weekend <br>
 
