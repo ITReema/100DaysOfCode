@@ -1,0 +1,8 @@
+/* Children of class="reveal" are not shown */
+.reveal * { 
+	display: none; 
+} 
+/* Except for the class="handle" child */
+.reveal *.handle { 
+display: block;
+} 
