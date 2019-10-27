@@ -1,5 +1,5 @@
 # Day 66
-In Day 66 we learn about  JavaScript Closures in JavaScript.
+In Day 66 we learn about Closures in JavaScript.
 
 ### JavaScript Closures
 * JavaScript variables can belong to the ```local ```or ```global``` scope.
