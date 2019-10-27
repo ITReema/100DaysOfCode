@@ -80,3 +80,7 @@ Week 10:
 * [Day 66](https://codepen.io/ReemaSaleh/pen/MWWmzZz?editors=0010#0) JavaScript Closures <br>
 * [Day 67&68]() Weekend <br>
 
+Week 10:
+* [Day 69]() Client-Side JavaScript <br>
+
+
