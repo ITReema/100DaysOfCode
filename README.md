@@ -81,6 +81,4 @@ Week 10:
 * [Day 67&68]() Weekend <br>
 
 Week 10:
-* [Day 69]() Client-Side JavaScript <br>
-
-
+* [Day 69](https://codepen.io/ReemaSaleh/pen/abbyVdY) Client-Side JavaScript <br>
