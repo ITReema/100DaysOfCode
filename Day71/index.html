@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Timers</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<button onclick="stopColor()">Stop Toggling</button>
+
+	<script>
+		var myVar = setInterval(setColor, 300);
+		function setColor() {
+			var x = document.body;
+		 	x.style.backgroundColor = x.style.backgroundColor == "lightpink" ? "lightgray" : "lightpink";
+		}
+		function stopColor() {
+			clearInterval(myVar);
+		}
+	</script>
+</body>
+</html>
