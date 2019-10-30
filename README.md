@@ -83,4 +83,4 @@ Week 10:
 Week 11:
 * [Day 69](https://codepen.io/ReemaSaleh/pen/KKKvZMR) Client-Side JavaScript <br>
 * [Day 70]() JavaScript in Web Documents <br>
-* [Day 71]() Timers <br>
+* [Day 71](https://codepen.io/ReemaSaleh/pen/ExxwMPX) Timers <br>
