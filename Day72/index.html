@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script>
+		var myWindow;
+		function openWin() {
+			myWindow = window.open("", "myWindow", "width=400, height=200");
+		}
+		function closeWin() {
+		 	if (myWindow) {
+		 		myWindow.close();
+		 	}
+		}
+		function checkWin() {
+		 	if (!myWindow) {
+		 		document.getElementById("msg").innerHTML = "Window has never been opened!";
+		 	} else {
+		 		if (myWindow.closed) {
+		 			document.getElementById("msg").innerHTML = "Window has been closed!";
+		 		} else {
+		 			document.getElementById("msg").innerHTML = "Window has not been closed!";
+		 		}
+		 	}
+		 }
+	</script>
+</head>
+<body>
+	<button onclick="openWin()">Open Window</button>
+	<button onclick="closeWin()">Close Window</button>
+	<br><br>
+	<button onclick="checkWin()">Has Window been closed?</button>
+	<br><br>
+	<div id="msg"></div>
+</body>
+</html>
