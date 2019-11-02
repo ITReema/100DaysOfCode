@@ -85,5 +85,5 @@ Week 11:
 * [Day 70]() JavaScript in Web Documents <br>
 * [Day 71](https://codepen.io/ReemaSaleh/pen/ExxwMPX) Timers <br>
 * [Day 72](https://codepen.io/ReemaSaleh/pen/OJJxqBP) Opening and Closing Windows <br>
-* [Day 73]() Dialog Boxes <br>
+* [Day 73](https://codepen.io/ReemaSaleh/pen/ZEEvrVd?editors=0010#0) Dialog Boxes <br>
 * [Day 74&75]() Weekend <br>
