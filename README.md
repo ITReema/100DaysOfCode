@@ -87,3 +87,6 @@ Week 11:
 * [Day 72](https://codepen.io/ReemaSaleh/pen/OJJxqBP) Opening and Closing Windows <br>
 * [Day 73](https://codepen.io/ReemaSaleh/pen/ZEEvrVd?editors=0010#0) Dialog Boxes <br>
 * [Day 74&75]() Weekend <br>
+
+Week 12:
+* [Day 76]() The Document Object Model (DOM)<br>
