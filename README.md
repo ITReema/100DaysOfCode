@@ -90,3 +90,5 @@ Week 11:
 
 Week 12:
 * [Day 76]() The Document Object Model (DOM)<br>
+* [Day 77]() Creating Nodes<br>
+* [Day 78]() Inserting Nodes <br>
