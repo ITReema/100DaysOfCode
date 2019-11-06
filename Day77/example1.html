@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<p>Click the button to create a h1 element with some text.</p>
+	<button onclick="myFunction()">Try it</button>
+	<script>
+		function myFunction() {
+			var h = document.createElement("H1");
+		 	var t = document.createTextNode("Hello World");
+		 	h.appendChild(t);
+		    document.body.appendChild(h);
+		}
+	</script>
+</body>
+</html>
