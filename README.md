@@ -91,4 +91,4 @@ Week 11:
 Week 12:
 * [Day 76](https://codepen.io/ReemaSaleh/pen/WNNzpBx) The Document Object Model (DOM)<br>
 * [Day 77](https://codepen.io/ReemaSaleh/pen/eYYrprq?editors=1010) Creating Nodes<br>
-* [Day 78]() Inserting Nodes <br>
+* [Day 78](https://codepen.io/ReemaSaleh/pen/eYYrpoY?editors=1010#0) Inserting Nodes <br>
