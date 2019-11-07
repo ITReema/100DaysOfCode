@@ -1,5 +1,5 @@
 # Day 78
-In Day 78 we learn about  in JavaScript .
+In Day 78 we learn about Inserting Nodes in JavaScript .
 
 * The ```appendChild()``` method appends a node as the last child of a node.
 **Syntax**
