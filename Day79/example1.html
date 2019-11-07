@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<ul id="myList">
+		<li>Coffee</li>
+		<li>Tea</li>
+		<li>Milk</li>
+	</ul>
+	<p>Click the button to remove the first item from the list.</p>
+	<button onclick="myFunction()">Try it</button>
+	<script>
+		function myFunction() {
+		 	var list = document.getElementById("myList");
+		 	list.removeChild(list.childNodes[0]);
+		}
+	</script>
+</body>
+</html>
