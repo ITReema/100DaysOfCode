@@ -8,3 +8,10 @@ In Day 76 we learn about Document Object Model ( DOM)  in JavaScript .
 
 * The HTML ```DOM``` model is constructed as a tree of Objects:
 ![image](https://user-images.githubusercontent.com/27751735/68237642-90fdf900-0018-11ea-84bb-cab2e534424f.png)
+
+#### HTML DOM getElementsByName() Method
+The ```getElementsByName()``` method returns a collection of all elements in the document with the specified name (the value of the name attribute).
+**Syntax**
+```
+document.getElementsByName(name);
+```
