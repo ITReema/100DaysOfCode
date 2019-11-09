@@ -15,3 +15,9 @@ The ```getElementsByName()``` method returns a collection of all elements in the
 ```
 document.getElementsByName(name);
 ```
+#### HTML DOM getElementById() Method
+The ```getElementById()``` method returns the element that has the ID attribute with the specified value.
+**Syntax**
+```
+document.getElementById(elementID);
+```
