@@ -94,4 +94,4 @@ Week 12:
 * [Day 78](https://codepen.io/ReemaSaleh/pen/eYYrpoY?editors=1010#0) Inserting Nodes <br>
 * [Day 79](https://codepen.io/ReemaSaleh/pen/JjjZOrg) Removing and Replacing Nodes <br>
 * [Day 80](https://codepen.io/ReemaSaleh/pen/KKKeyQe) scroll Property <br>
-* [Day 81&82]() Weekend <br>
+* [Day 81&82](https://codepen.io/ReemaSaleh/pen/abbjZLX) Weekend <br>
