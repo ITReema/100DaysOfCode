@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>elementFromPoint</title>
+	<style>
+		body {
+			font-family: 'helvetica neue';
+  			text-align: center;
+		}
+		button {
+			background-color: gray;
+  			border: none;
+  			color: white;
+  			padding: 8px 15px;
+  			text-align: center;
+  			cursor: pointer;
+  			font-size: 12px;
+		}
+
+	</style>
+	<script>
+		function changeColor(newColor) {
+  			elem = document.elementFromPoint(2, 2);
+  			elem.style.color = newColor;
+		}
+	</script>
+</head>
+
+<body>
+	<h1>Some text here</h1>
+	<button onclick="changeColor('red');">red</button>
+	<button onclick="changeColor('green');">green</button>
+	<button onclick="changeColor('blue');">blue</button>
+</body>
+</html>
