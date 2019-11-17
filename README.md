@@ -102,3 +102,4 @@ Week 13:
 * [Day 85]() Touchscreen and Mobile Events <br>
 * [Day 86]() ```addEventListener``` <br>
 * [Day 87]()  Event Cancellation <br>
+* [Day 88&89]() Weekend <br>
