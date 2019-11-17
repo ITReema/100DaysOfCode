@@ -97,4 +97,4 @@ Week 12:
 * [Day 81&82](https://codepen.io/ReemaSaleh/pen/abbjZLX) Weekend <br>
 
 Week 13:
-* [Day 83]() Events <br>
+* [Day 83](https://codepen.io/ReemaSaleh/pen/abbPmqQ) Events <br>
