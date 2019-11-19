@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<h1>DOM touchend Event</h1>
+	<p id="myP">Touch this paragraph, and release the touch to trigger a function that will write "Hello World".</p>
+	<p><strong>Note:</strong> This example is for touch devices only.</p>
+	<p id="demo"></p>
+
+	<script>
+		document.getElementById("myP").addEventListener("touchend", myFunction);
+		function myFunction() {
+			document.getElementById("demo").innerHTML = "Hello World";
+		}
+	</script>
+</body>
+</html>
