@@ -102,4 +102,4 @@ Week 13:
 * [Day 85](https://codepen.io/ReemaSaleh/pen/mddvxMX) Touchscreen and Mobile Events <br>
 * [Day 86](https://codepen.io/ReemaSaleh/pen/qBBgKZG) ```addEventListener``` <br>
 * [Day 87](https://codepen.io/ReemaSaleh/pen/zYYXOMy)  Event Cancellation <br>
-* [Day 88&89]() Weekend <br>
+* [Day 88&89](https://codepen.io/ReemaSaleh/pen/pooBzmV) Weekend <br>
