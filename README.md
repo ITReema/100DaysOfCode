@@ -109,5 +109,5 @@ Week 14:
 * [Day 91](https://codepen.io/ReemaSaleh/pen/ExxzBZG) ```goBack``` and ```goForward```<br>
 * [Day 92](https://codepen.io/ReemaSaleh/pen/WNNqyvq) Navigator<br>
 * [Day 93](https://codepen.io/ReemaSaleh/pen/gOOVqbe) Timing Events<br>
-* [Day 94]() Cookies<br>
+* [Day 94](https://codepen.io/ReemaSaleh/pen/eYmOraa) Cookies<br>
 * [Day 95&96]() Weekend <br>
