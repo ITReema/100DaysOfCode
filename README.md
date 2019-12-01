@@ -114,3 +114,6 @@ Week 14:
 
 Week 15:
 * [Day 97]() ```sessionStorage``` & ```localStorage```<br>
+* [Day 98]() <br>
+* [Day 98]() <br>
+* [Day 100]() <br>
