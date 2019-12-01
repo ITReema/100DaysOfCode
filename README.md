@@ -110,7 +110,7 @@ Week 14:
 * [Day 92](https://codepen.io/ReemaSaleh/pen/WNNqyvq) Navigator<br>
 * [Day 93](https://codepen.io/ReemaSaleh/pen/gOOVqbe) Timing Events<br>
 * [Day 94](https://codepen.io/ReemaSaleh/pen/eYmOraa) Cookies<br>
-* [Day 95&96]() Weekend <br>
+* [Day 95&96](https://codepen.io/ReemaSaleh/pen/NWPKZZb?editors=0011#0) Weekend <br>
 
 Week 15:
 * [Day 97](https://codepen.io/ReemaSaleh/pen/ZEYzdZa) ```sessionStorage``` & ```localStorage```<br>
