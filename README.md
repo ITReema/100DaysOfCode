@@ -116,4 +116,4 @@ Week 15:
 * [Day 97](https://codepen.io/ReemaSaleh/pen/ZEYzdZa) ```sessionStorage``` & ```localStorage```<br>
 * [Day 98](https://codepen.io/ReemaSaleh/pen/RwNwMJv) Web Workers <br>
 * [Day 99](https://codepen.io/ReemaSaleh/pen/ZEYYGEm) Server-Sent Events <br>
-* [Day 100]() Geolocation <br>
+* [Day 100](https://codepen.io/ReemaSaleh/pen/JjooeOJ?editors=1010#0) Geolocation <br>
